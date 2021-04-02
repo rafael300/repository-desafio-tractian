@@ -1,0 +1,19 @@
+#Card{
+    display: inline-block;
+    margin: 15px;
+    border: black;
+    border-style: solid;
+    width:300px;
+}
+
+.CardAtivo{
+    display: inline-block;
+    margin: 15px;
+    border: black;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.card-body{
+    padding: 15px;
+}

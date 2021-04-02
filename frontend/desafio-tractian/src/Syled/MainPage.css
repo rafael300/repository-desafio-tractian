@@ -1,0 +1,11 @@
+.MainPage{
+    width:500px;
+    margin: 0 auto;
+    padding-top: 60px;
+}
+
+.Principal{
+    align-items: center;
+    align-content: center;
+    margin: 0 auto;
+}
